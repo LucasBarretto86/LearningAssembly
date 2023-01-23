@@ -1,0 +1,16 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.obelisk.me.uk	TRUE	/	FALSE	1999999999	BIGipServerTethys	4160792768.20480.0000
+www.obelisk.me.uk	TRUE	/	FALSE	1999999999	TS01a0c22a	0104bd80e7a34d31c1650c34f2e18ab1251f39cbbba71fd0381c2494352e08b8a12f7b8a816481e666d4991fa3a7dc0bf286e434df
+.webring.org	TRUE	/	FALSE	1999999999	HN	r1=6502webring|6502-Web-Ring
+.webring.org	TRUE	/	FALSE	1999999999	A	n=1517863117&a=1517863117
+.webring.org	TRUE	/	FALSE	1999999999	P1	PN=2&P=6502webring|5
+.webring.org	TRUE	/	FALSE	1999999999	ps	c=2&r=y&t=1517863117
+.webring.org	TRUE	/	FALSE	1999999999	N	r=6502webring&wrHubId=6502-Web-Ring&s=localhost&id=1
+www.hytherion.com	TRUE	/	FALSE	1999999999	TS0194eee0	010bd78044eba8f7f6c8262e720c54a94d47e46e1e13e987d6d2dcb919b99da153617ae75c
+.webring.com	TRUE	/	FALSE	1999999999	A	a=1517863123
+.yourtakeonscience.org	TRUE	/	FALSE	1999999999	A	n=1517863902&a=1517863902
+.yourtakeonscience.org	TRUE	/	FALSE	1999999999	P1	PN=1&P=default|3
+.yourtakeonscience.org	TRUE	/	FALSE	1999999999	HN	r1=default|the-original-webring
+.yourtakeonscience.org	TRUE	/	FALSE	1999999999	N	r=default&wrHubId=the-original-webring&s=localhost&id=3
+

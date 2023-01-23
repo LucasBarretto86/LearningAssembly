@@ -1,0 +1,53 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 05 Feb 2018 18:38:28 at http://www.obelisk.me.uk/6502/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qYC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pt_BR, en, *" -Y http://www.obelisk.me.uk/6502/ -O1 "E:\Desktop\6502 Complete Reference\6502 Complete Reference" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:38:56	Error: 	"Forbidden" (403) at link www.hytherion.com/beattidp/ (from www.obelisk.me.uk/6502/)
+18:38:57	Warning: 	Found for ss.webring.org/robots.txt
+18:38:57	Warning: 	File has moved from ss.webring.org/robots.txt to http://www.webring.com/robots.txt
+18:39:35	Error: 	"Not Found" (404) at link ss.webring.org/cgi-bin/newpage (from ss.webring.org/navbar?f=l;y=andrew_jacobs;u=10039925;comid=)
+18:39:35	Error: 	"Not Found" (404) at link ss.webring.org/cgi-bin/login?login (from ss.webring.org/navbar?f=l;y=andrew_jacobs;u=10039925;comid=)
+18:39:35	Error: 	"Not Found" (404) at link ss.webring.org/cgi-bin/mailafriend?url= (from ss.webring.org/navbar?f=l;y=andrew_jacobs;u=10039925;comid=)
+18:39:35	Error: 	"Not Found" (404) at link ss.webring.org/dir (from ss.webring.org/navbar?f=l;y=andrew_jacobs;u=10039925;comid=)
+18:39:35	Error: 	"Not Found" (404) at link ss.webring.org/cgi-bin/members/blogcategory.cgi (from ss.webring.org/navbar?f=l;y=andrew_jacobs;u=10039925;comid=)
+18:39:59	Warning: 	Found for hub.yourtakeonscience.com/hub/statcounter.com/localstorage/
+18:39:59	Warning: 	File has moved from hub.yourtakeonscience.com/hub/statcounter.com/localstorage/ to http://dir.webring.org
+18:39:59	Error: 	"Not Found" (404) at link img.webring.com/http;//img.webring.com/footer_bg.png (from img.webring.com/style.css)
+18:40:12	Error: 	"Not Found" (404) at link img.webring.com/s/a0//_b.png (from hub.yourtakeonscience.com/hub/6502webring?id=7&prvw&js=y)
+18:41:36	Error: 	"Not Found" (404) at link img.webring.com/s/kn/noriko/988583720103_b.png (from hub.yourtakeonscience.com/hub/default?id=53;prvw;js=y)
+18:41:59	Error: 	"Not Found" (404) at link img.webring.com/s/me/elomstrapunzillo/970328739100_b.png (from hub.yourtakeonscience.com/hub/default?id=14;prvw;js=y)
+18:42:32	Error: 	"Not Found" (404) at link img.webring.com/s/kw/webringdooley/defurl_b.png (from hub.yourtakeonscience.com/hub/default?id=492;prvw;js=y)
+18:42:32	Error: 	"Not Found" (404) at link img.webring.com/s/bs/superman59/10134849_b.png (from hub.yourtakeonscience.com/hub/default?id=23;prvw;js=y)
+18:42:32	Error: 	"Not Found" (404) at link img.webring.com/s/ha/amberfirez/10047433_b.png (from hub.yourtakeonscience.com/hub/default?id=423;prvw;js=y)
+18:42:32	Error: 	"Not Found" (404) at link img.webring.com/s/wk/kiddoconnell/996333664104_b.png (from hub.yourtakeonscience.com/hub/default?id=544;prvw;js=y)
+18:42:32	Error: 	"Not Found" (404) at link img.webring.com/s/td/darth_maul_8065/993504543104_b.png (from hub.yourtakeonscience.com/hub/default?id=453;prvw;js=y)
+18:42:32	Error: 	"Not Found" (404) at link img.webring.com/s/ct/tom_b100/10101186_b.png (from hub.yourtakeonscience.com/hub/default?id=584;prvw;js=y)
+18:43:25	Error: 	"Not Found" (404) at link img.webring.com/s/wj/joplinstillrocks/10124080_b.png (from hub.yourtakeonscience.com/hub/default?id=719;prvw;js=y)
+18:43:25	Error: 	"Not Found" (404) at link img.webring.com/s/wc/crewsnewlight/987894591103_b.png (from hub.yourtakeonscience.com/hub/default?id=25;prvw;js=y)
+18:43:25	Error: 	"Not Found" (404) at link img.webring.com/s/ds/shpoodog/998584892104_b.png (from hub.yourtakeonscience.com/hub/default?id=71;prvw;js=y)
+18:43:26	Error: 	"Not Found" (404) at link img.webring.com/s/vp/packsdoll/10025845_b.png (from hub.yourtakeonscience.com/hub/default?id=24;prvw;js=y)
+18:43:48	Error: 	"Not Found" (404) at link img.webring.com/s/wc/crewsnewlight/987895160103_b.png (from hub.yourtakeonscience.com/hub/default?id=58;prvw;js=y)
+18:44:25	Error: 	"Not Found" (404) at link img.webring.com/s/rh/heather/999269444104_b.png (from hub.yourtakeonscience.com/hub/default?id=604;prvw;js=y)
+18:44:25	Error: 	"Not Found" (404) at link img.webring.com/s/hg/grosspullach/10038501_b.png (from hub.yourtakeonscience.com/hub/default?id=275;prvw;js=y)
+18:44:25	Error: 	"Not Found" (404) at link img.webring.com/s/ul/livingdeadgirl2005/defurl_b.png (from hub.yourtakeonscience.com/hub/default?id=696;prvw;js=y)
+18:44:50	Error: 	"Not Found" (404) at link img.webring.com/s/ng/gnkrot/984794174100_b.png (from hub.yourtakeonscience.com/hub/default?id=701;prvw;js=y)
+18:44:51	Error: 	"Not Found" (404) at link img.webring.com/s/jl/lublink/999265626104_b.png (from hub.yourtakeonscience.com/hub/default?id=530;prvw;js=y)
+18:44:51	Error: 	"Not Found" (404) at link img.webring.com/s/af/friend_al_23/990435653103_b.png (from hub.yourtakeonscience.com/hub/default?id=523;prvw;js=y)
+18:44:53	Error: 	"Not Found" (404) at link img.webring.com/s/fp/pjs55tops/982032785102_b.png (from hub.yourtakeonscience.com/hub/default?id=124&prvw&js=y)
+18:45:32	Error: 	"Not Found" (404) at link img.webring.com/s/oc/chris_kellie/968514537100_b.png (from hub.yourtakeonscience.com/hub/default?id=450;prvw;js=y)
+18:45:32	Error: 	"Not Found" (404) at link img.webring.com/s/ii/i_am_miss_world/994992175100_b.png (from hub.yourtakeonscience.com/hub/default?id=352;prvw;js=y)
+18:46:19	Error: 	"Not Found" (404) at link img.webring.com/s/gr/rstalnecker/988217947100_b.png (from hub.yourtakeonscience.com/hub/default?id=10;prvw;js=y)
+18:46:19	Error: 	"Not Found" (404) at link img.webring.com/s/jb/bonnielee/987119260103_b.png (from hub.yourtakeonscience.com/hub/default?id=668;prvw;js=y)
+18:47:23	Error: 	"Not Found" (404) at link img.webring.com/s/na/arteestic_one/992962214100_b.png (from hub.yourtakeonscience.com/hub/default?id=93;prvw;js=y)
+18:49:59	Error: 	"Not Found" (404) at link img.webring.com/s/lt/teetee199thlib1/200094788_b.png (from hub.yourtakeonscience.com/hub/default?id=885;prvw;js=y)
+18:50:39	Error: 	"Not Found" (404) at link img.webring.com/s/tt/theentwife/999371881104_b.png (from hub.yourtakeonscience.com/hub/default?id=35;prvw;js=y)
+18:51:10	Error: 	"Not Found" (404) at link img.webring.com/s/ii/iceduster/993418312100_b.png (from hub.yourtakeonscience.com/hub/default?id=667&prvw&js=y)
+18:51:42	Error: 	"Not Found" (404) at link img.webring.com/s/mp/prairiebreezes/10026401_b.png (from hub.yourtakeonscience.com/hub/default?id=545;prvw;js=y)
+18:51:42	Error: 	"Not Found" (404) at link img.webring.com/s/nt/toddybear78/991704193103_b.png (from hub.yourtakeonscience.com/hub/default?id=84;prvw;js=y)
+
+HTTrack Website Copier/3.49-2 mirror complete in 13 minutes 14 seconds : 894 links scanned, 851 files written (23734271 bytes overall) [18652506 bytes received at 23491 bytes/sec], 23254213 bytes transferred using HTTP compression in 901 files, ratio 74%, 1.0 requests per connection
+(38 errors, 4 warnings, 0 messages)

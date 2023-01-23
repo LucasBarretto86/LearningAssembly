@@ -1,0 +1,718 @@
+@charset "UTF-8";
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #000000;
+	text-align: center;
+}
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #000000;
+	text-align: -moz-center;
+}
+
+td, p {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #000000;
+}
+img.profimg {
+	max-width:90px;
+	max-height:90px;
+/*	width: expression(this.width > 90 ? "90px": "auto");
+	height: expression(this.height > 90 ? "90px": "auto");
+*/
+}
+a.profimg {
+	border-style:none;
+}
+a:link {
+	color: blue;
+}
+a:visited {
+	color: #000066;
+}
+a:hover {
+	color: #000066;
+	text-decoration: underline;
+}
+a:active {
+	color: #000066;
+	text-decoration: underline;
+}
+
+a.emfb:visited {
+	color: black;
+	font-weight: bold;
+	text-decoration: none;
+}
+a.emfb:link {
+	color: black;
+	font-weight: bold;
+	text-decoration: none;
+}
+a.emfb:hover {
+	color: #ff7700;
+	font-weight: bold;
+	text-decoration: none;
+}
+a.emfb:active {
+	color: red;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+a.emfd:visited {
+	color: #444444;
+	text-decoration: none;
+}
+a.emfd:link {
+	color: #3366ff;
+	text-decoration: none;
+}
+a.emfd:hover {
+	color: #ff7700;
+	text-decoration: none;
+}
+a.emfd:active {
+	color: red;
+	text-decoration: underline;
+}
+
+a.emf:visited {
+	color: #707070;
+	text-decoration: none;
+}
+a.emf:link {
+	color: #707070;
+	text-decoration: none;
+}
+a.emf:hover {
+	color: #ff7700;
+	text-decoration: none;
+}
+a.emf:active {
+	color: red;
+	text-decoration: underline;
+}
+.style1 {
+	font-family: tahoma;
+	font-size: 11px;
+	color: #000066;
+	text-transform: none;
+	text-decoration: none;
+}
+.style2 {
+	font-family: tahoma;
+/*	font-size: 12px;*/
+/*	color: #4d5f41;*/
+	color: #FFFFFF;
+	font-weight: bold;
+}
+.style3 {color: #FFFFFF}
+.style4 {font-size: 9px}
+.style5 {color: #000033}
+.style6 {
+	font-size: 24px;
+	font-weight: bold;
+}
+.style8 {font-size: 8px;}
+.style9 {font-size: 9px;}
+.style10 {font-size: 10px;}
+.style10u {
+	font-size: 10px;
+	text-decoration: none;
+}
+.style11 {font-size: 11px}
+.style11a {
+	font-size: 11px;
+	font-family: tahoma;
+}
+.style12 {font-size: 12px}
+.style12b {
+	font-size: 12px;
+	font-weight: bold;
+}
+.style13 {font-size: 13px}
+.style13b {
+	font-size: 13px;
+	font-family: tahoma;
+	font-weight: bold;
+}
+.style14 {
+	font-size: 14px;
+	font-family: tahoma;
+}
+.style14b {
+	font-size: 14px;
+	font-family: tahoma;
+	font-weight: bold;
+	color: 735836
+}
+.style15 {
+	font-size: 15px;
+	font-family: tahoma;
+}
+.style15b {
+	font-size: 15px;
+	font-family: tahoma;
+	font-weight: bold;
+}
+.style16 {
+	font-size: 18px;
+	font-family: tahoma;
+}
+.style16a {
+	font-size: 16px;
+	font-family: tahoma;
+}
+.style16b {
+	font-size: 16px;
+	font-family: tahoma;
+	font-weight: bold;
+}
+.style17 {
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-variant: normal;
+	text-transform: none;
+/*	color: #000066;*/
+	text-decoration: none;
+	font-family: tahoma;
+	height: 20px;
+}
+.bitstream{
+	font-size: 14px;
+	font-family: Verdana,"BitStream vera Sans",Helvetica,Sans-serif;
+	color: #303030;
+}
+.styledg1 {
+ padding:2px 0 0 20px; height:16px; background:url(../img.webring.com/digg.png) no-repeat top left; font-size: 13px;
+}
+.stylefb1 {
+ padding:2px 0 0 20px; height:16px; background:url(../img.webring.com/facebook.png) no-repeat top left; font-size: 13px;
+}
+.stylefb {
+ padding:2px 0 0 20px; height:16px; background:url(../img.webring.com/facebook.png) no-repeat top left; font-size: 11px;
+}
+.style17a {
+	font-size: 17px;
+	font-family: tahoma;
+	color: 4d5f41
+}
+.style17b {
+	font-size: 17px;
+	font-family: tahoma;
+	color: 023cc2
+}
+.style25b {
+	font-size: 25px;
+	font-family: tahoma;
+	/* color: 023cc2; */
+	/* color: 8c92c4; */
+	color: 5768a8;
+}
+.style18 {
+	font-size: 10px;
+	font-weight: bold;
+	font-family: tahoma;
+}
+.style19 {font-size: 11px}
+.style20 {
+	font-family: bookman;
+	font-size: 17px;
+}
+.links {text-decoration: underline;}
+.more {
+	font-family: tahoma;
+	font-size: 9px;
+	font-weight: bold;
+	color: #000066;
+}
+.more a:link {
+	color: #454572;
+	text-decoration: none;
+}
+.more a:visited {
+	color: #60131B;
+	text-decoration: none;
+}
+.more a:hover {
+	color: #60131B;
+	text-decoration: underline;
+}
+.more a:active {
+	color: #454572;
+	text-decoration: underline;
+}
+.footerInfo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.75em;
+    text-decoration: none;
+}
+
+.footerInfo a:visited{
+    color: #6666CC;
+}
+
+.footerInfo a:link{
+    color:#333333;
+    text-decoration:none;
+}
+
+.footerInfo a:hover{
+    color: #606586;
+}
+
+.copyright{
+    font-size: 0.6em;
+    color: #666666;
+    line-height: 1.5em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.footer {
+	font-family: tahoma;
+	font-size: 12px;
+	color: #000066;
+}
+.footer a:link {
+	color: #000066;
+	text-decoration: underline;
+}
+.footer a:visited {
+	color: #000066;
+	text-decoration: none;
+}
+.footer a:hover {
+	color: #000066;
+	text-decoration: none;
+}
+.footer a:active {
+	color: #000066;
+	text-decoration: underline;
+}
+.title {
+	text-transform: uppercase;
+	font-family: Impact;
+	font-style: oblique;
+	color: red;
+}
+.err {
+	margin-left: 3em;
+	margin-right: 3em;
+	background-color: pink;
+}
+.button {
+	text-transform: uppercase;
+	font-family: Impact;
+	font-style: oblique;
+	color: white;
+	background-color: red;
+	border: 2px outset red;
+}
+.big {
+	font-size: 22px;
+}
+.bigger {
+	font-size: 30px;
+}
+.huge {
+	font-size: 38px;
+}
+.linkish {
+	color: #707070;
+	text-decoration: none;
+}
+.popout {
+	display: none;
+	position: absolute;
+	padding: 0;
+	margin: 0;
+}
+.popout_item {
+	display: list-item;
+	border: 1px lightblue solid;
+	background-color: white;
+}
+.popout_item:hover {
+	background-color: cornsilk;
+}
+ul.popout {
+	list-style: none;
+}
+.popout li {
+	border: 1px lightblue solid;
+}
+.popout a {
+	text-decoration: none;
+}
+.tabon {
+	font-weight: bold;
+}
+.taboff {
+	text-decoration: none;
+}
+.mktpl-link {
+	font-size: 2em;
+}
+.mktpl-fade {
+	font-size: 2em;
+	color: #666666;
+}
+
+/* From Had */
+
+#menug {
+	list-style: none;
+	margin: 0;
+	margin-top: 1px;
+	padding: 0;
+	height: 25px;
+}
+#menug li {
+	float: left;
+	font: 10px "Lucida Sans Unicode", "Bitstream Vera Sans", "Trebuchet Unicode MS", "Lucida Grande", Verdana, Helvetica, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+#menug a {
+	background: #606586 url(../img.webring.com/images/seperatorlt.gif) bottom right no-repeat;
+	color: #FFF;
+	display: block;
+	float: left;
+	margin: 0;
+	padding: 5px 10px;
+	text-decoration: none;
+}
+
+#menug a:hover {
+	background: #8b93c3 url(../img.webring.com/images/hover.gif) bottom center no-repeat;
+	color: #fff;
+	padding-bottom: 5px;
+}
+
+#menu {
+	background: #606586;
+	float: right;
+	list-style: none;
+	margin: 0;
+	margin-top: 1px;
+	padding: 0;
+	height: 25px;
+}
+
+#menu li {
+	float: left;
+	font: 10px "Lucida Sans Unicode", "Bitstream Vera Sans", "Trebuchet Unicode MS", "Lucida Grande", Verdana, Helvetica, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+#menu a {
+	background: #606586 url(../img.webring.com/images/seperatorlt.gif) bottom right no-repeat;
+	color: #FFF;
+	display: block;
+	float: left;
+	margin: 0;
+	padding: 5px 10px;
+	text-decoration: none;
+}
+
+#menu a:hover {
+	background: #8b93c3 url(../img.webring.com/images/hover.gif) bottom center no-repeat;
+	color: #fff;
+	padding-bottom: 5px;
+}
+
+.topShadow{
+    width: 30px;
+    background-image:url(../img.webring.com/header-shadows_06.gif);
+    height: 26px;
+    float: right;
+}
+
+.bottomShadow{
+    width: 30px;
+    background-image: url(../img.webring.com/header-shadows_10.gif);
+    height: 34px;
+    float: right;
+    background-repeat: repeat-y;
+}
+
+.flashBanner{
+    width: 800px;
+    margin: 0 auto;
+    height: 300px;
+}
+
+#memberShow{
+	width: 880px;
+	/* margin: 0 auto; */
+	margin-left: -8px; 
+	height: auto;
+}
+
+.memberShowTop{
+	width: 100%;
+	height: auto;
+	text-align: center;
+	background-color:#8c92c4;
+	border: 6px solid #8c92c4;
+	float: left;
+	font-family: Arial, Arial, Helvetica, sans-serif;
+	color: #ffffff;
+	font-size: 1.4em;
+}
+
+.memberShowcase{
+	width: 100%;
+	height: auto;
+	background-color:#ffffff;
+	/* background-color:#d1dbe9; */
+	border: 6px solid #8c92c4;
+	float: left;
+	font-family: Arial, Arial, Helvetica, sans-serif;
+	color: #606586;
+	font-size: 0.8em;
+	margin-bottom: 5px;
+}
+
+.login-panel-body-top-rimage{
+    background: url(../img.webring.com/R360_home_logo_large.png) no-repeat;
+    width: 300px;
+    height: 268px;
+    margin-top: 17px;
+
+}
+.login-panel-body-top-text1{
+    color: #FFFFFF;
+    font-size: 28px;
+    margin-left: 6px;
+}
+
+.login-panel-body-top-text1-panel{
+    width: 340px;
+    height: 100%;
+    margin-top: 165px;
+}
+.r360-panel1{
+    background: url(../img.webring.com/toparea.gif) repeat-x;
+    width: 100%;
+    height: 290px;
+}
+.r360-panel2{
+    background: url(../img.webring.com/crtop.png) repeat-x;
+    width: 100%;
+    height: 290px;
+}
+.green-box-text1{
+    color: #FFFFFF;
+    font-size: 22px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+.green-box-text2{
+    color: #FFFFFF;
+    font-size: 14px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+.login-panel-body-top-project-image{
+    background: url(../img.webring.com/R360_home_icongraphic.png) no-repeat;
+    width: 380px;
+    height: 342px;
+    margin-top: 11px;
+}
+.brwn-box{
+    background: url(../img.webring.com/box1.png) no-repeat;
+    width: 552px;
+    height: 392px;
+}
+.green-box{
+    background: url(../img.webring.com/greanbox_l1.gif) no-repeat;
+    width: 490px;
+    height: 275px;
+    /*padding: 20px 10px 9px 21px;*/
+    margin-left: 8px;
+    margin-bottom: 3px;
+}
+.green-box-med{
+    background: url(../img.webring.com/fuzzgrn1.png) no-repeat;
+    width: 360px;
+    height: 225px;
+    /*padding: 20px 10px 9px 21px;*/
+    margin-left: 8px;
+    margin-bottom: 3px;
+}
+.green-box-small{
+    background: url(../img.webring.com/grnbox1.gif) no-repeat;
+    width: 178px;
+    height: 80px;
+    /*padding: 20px 10px 9px 21px;*/
+    margin-left: 8px;
+    margin-bottom: 3px;
+}
+.end-small{
+    background: url(../img.webring.com/end.gif) no-repeat 0 0 ;
+    width: 22px;
+    height: 30px;
+}
+.pplh-small{
+    background: url(../img.webring.com/ppl_h.gif) no-repeat 0 0 ;
+    width: 22px;
+    height: 30px;
+}
+.ppl-small{
+    background: url(../img.webring.com/ppl_1.gif) no-repeat 0 0 ;
+    width: 22px;
+    height: 30px;
+}
+.mailh-small{
+    background: url(../img.webring.com/mail_h.gif) no-repeat 0 0 ;
+    width: 22px;
+    height: 30px;
+}
+.mail-small{
+    background: url(../img.webring.com/mail_1.gif) no-repeat 0 0 ;
+    width: 22px;
+    height: 30px;
+}
+.prjh-small{
+    background: url(../img.webring.com/prj_h1.png) no-repeat 0 0 ;
+    width: 22px;
+    height: 30px;
+}
+.prj-small{
+    background: url(../img.webring.com/prj_11.png) no-repeat 0 0 ;
+    width: 22px;
+    height: 30px;
+}
+.libh-small{
+    background: url(../img.webring.com/lib_h.gif) no-repeat 0 0 ;
+    width: 22px;
+    height: 30px;
+}
+.lib-small{
+    background: url(../img.webring.com/lib_1.gif) no-repeat 0 0 ;
+    width: 22px;
+    height: 30px;
+}
+.r360-small{
+    background: url(../img.webring.com/r360_1.gif) no-repeat 0 0 ;
+    width: 79px;
+    height: 30px;
+}
+.login-panel-body-top-glow-text1, .login-panel-body-top-glow-text2, .login-panel-body-top-glow-text3,.login-panel-body-top-glow-text4, .login-panel-body-top-glow-text5{
+   color: #607baf;
+   font-size: 25px;
+   font-weight: bold;
+   padding-top: 24px;
+	margin-left: 6px;
+}    
+/*
+.login-panel-body-top-glow-text1{
+   text-shadow:0 0 19px #0000FF;
+}
+.login-panel-body-top-glow-text2{
+   text-shadow:0 0 19px #FF0000;
+}
+.login-panel-body-top-glow-text3{
+   text-shadow:0 0 19px #00FF00;
+}
+.login-panel-body-top-glow-text4{
+   text-shadow:0 0 19px #FFFF00;
+}
+.login-panel-body-top-glow-text5{
+   text-shadow:0 0 19px #800080;
+}
+*/
+
+.login-panel-body-text1{
+    color: #627AAD; 
+	text-indent: 10px;
+    font-size: 24px;
+    padding-left: 15px;
+    font-family: Helvetica,Arial,Nimbus Sans L,Liberation Sans,Sans-Serif; 
+}
+.login-panel-body-text2{
+    color: #ff9304; 
+    font-size: 25px;
+    font-weight: bold;
+    padding-top: 35px;
+}
+.login-panel-body-text3{
+    color: #627AAD;
+    font-size: 18px;
+    font-weight: bold;
+    padding-bottom: 15px;
+    padding-top: 8px;
+}
+.login-panel-body-text4{
+    color: #627AAD;
+    font-size: 18px;
+    padding-bottom: 23px;
+    padding-top: 7px;
+}
+.login-panel-body-text5{
+    color: #ff9304; 
+}
+
+.repl1 {
+	width: 239;
+	height: 46;
+	border: 0;
+	margin: 0;
+	background: url(../img.webring.com/fuzzybtn.png) repeat-x top left;
+	cursor: pointer;
+	font-size: 15px;
+	color: 023cc2;
+	font-weight: bold;
+}
+
+.repl2 {
+	width: 168;
+	height: 34;
+	border: 0;
+	margin: 0;
+	background: url(../img.webring.com/fb.png) repeat-x top left;
+	cursor: pointer;
+	font-size: 15px;
+	color: 023cc2;
+	font-weight: bold;
+}
+
+.boxs {
+    background: url(../img.webring.com/cl35.png) no-repeat;
+    width: 350px;
+    height: 225px;
+    margin-left: 8px;
+    margin-bottom: 3px;
+}
+
+.boxm {
+    background: url(../img.webring.com/cl4.png) no-repeat;
+    width: 400px;
+    height: 260px;
+    margin-left: 8px;
+    margin-bottom: 3px;
+}
+
+.boxb {
+    background: url(../img.webring.com/cl5.png) no-repeat;
+    width: 500px;
+    height: 330px;
+    margin-left: 8px;
+    margin-bottom: 3px;
+}
+
+.boxl {
+    background: url(../img.webring.com/cl6.png) no-repeat;
+    width: 600px;
+    height: 360px;
+    margin-left: 8px;
+    margin-bottom: 3px;
+}
+
