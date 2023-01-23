@@ -12,8 +12,8 @@
 
 - **1 bit** holds one time 1 or 0;
 - **1 byte** holds eight times 1 or 0;
-  - **1 byte** holds one character composed by 8bits, ASCII standards
-  - **1 byte** holds maximum value of 255  in decimal
+- **1 byte** holds one character composed by 8bits, ASCII standards
+- **1 byte** holds maximum value of 255  in decimal
 
 Therefore, 1024 bytes or 1kb holds 8192 bits.
 
@@ -65,4 +65,3 @@ Therefore, 1024 bytes or 1kb holds 8192 bits.
 #### Printable ASCII Table
 
 ![AscII Table](src/assets/ascii-table.png)
-
